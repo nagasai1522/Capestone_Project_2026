@@ -1,0 +1,8 @@
+﻿backend/data/
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+farmai/public/background.mp4
+farmai/public/background.mp4
